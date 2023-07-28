@@ -1,0 +1,10 @@
+The required package dependencies for this Python program are:
+
+- pandas
+- numpy
+- sklearn.cluster (from scikit-learn)
+- sklearn.metrics (from scikit-learn)
+- sklearn.decomposition (from scikit-learn)
+- matplotlib.pyplot (from matplotlib)
+- seaborn (from seaborn)
+- collections
